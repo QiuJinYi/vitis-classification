@@ -151,7 +151,7 @@ def averagenum(num):
     return nsum / len(num)
 '''
 if __name__ == '__main__':
-    #main()
+    main()
     test()
 
 
